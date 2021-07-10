@@ -1,0 +1,67 @@
+@media(max-width:668px){
+    .menu {
+       position:inherit; 
+    }
+    .menu a {
+        width:100%;
+        height:10px;
+        padding:20px 0px;
+    }
+    .header {
+        padding:100px 10px;
+        margin-top:0;
+        background-size:cover;
+        background-position:center center;
+        /*min-height:300px;*/
+    }
+    body {
+        margin:0;
+        padding:0;
+    } 
+    #about-company h2 {
+        margin-top:1%;
+    }
+    #about-company img  {
+        display: block;
+        margin: 0 auto;
+    }
+    #about-company p {
+        margin-right: 0%;
+        margin-top: 1%;
+        margin-left: -2%;
+        font-size: 90%;
+    }
+    .name {
+        width:60%;
+    }
+    .price h2 {
+        margin-top:-25%;
+    }
+    .price p {
+        width:90%;
+        font-size:13px;
+        margin-left:20px;
+    }
+    .tarif {
+        width:77%;
+    }
+    .tarif2 {
+        width:84%;
+    }
+    .footer h2 {
+        padding-top:50px;
+    }
+    .footer img {
+        margin-top:3%;
+    }
+    .footer h3 {
+        margin-left: 19%;
+        font-size: 16px;
+        font-weight: 40;
+        margin-top: -6.5%;
+    }
+    .footer button {
+        width:48%;
+        margin-left:25%;
+    }
+}
